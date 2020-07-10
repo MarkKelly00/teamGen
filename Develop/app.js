@@ -120,5 +120,5 @@ function createEngineer(){
 }
 
 function createHTML() {
-    fs.writeFileSync('./team.html', render(teamMembers));
+    fs.writeFileSync(outputPath, render(teamMembers));
 }
