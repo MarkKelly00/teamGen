@@ -27,7 +27,7 @@ const teamMembers = [];
     {
         type: 'input',
         name: 'email',
-        message: 'Enter  your email: '
+        message: 'Enter Email: '
     },
     {
         type: 'input',
@@ -74,12 +74,12 @@ function createIntern() {
         {
             type: 'input',
             name: 'email',
-            message: 'Enter your email: '
+            message: 'Enter Email: '
         },
         {
             type: 'input',
             name: 'school',
-            message: 'Enter your school: '
+            message: 'Enter school: '
         }
         ])
             .then(answers => {
@@ -104,12 +104,12 @@ function createEngineer(){
         {
             type: 'input',
             name: 'email',
-            message: 'Enter your Email: '
+            message: 'Enter Email: '
         },
         {
             type: 'input',
             name: 'github',
-            message: 'Enter your GitHub: '
+            message: 'Enter GitHub: '
         }
         ])
             .then(answers => {
