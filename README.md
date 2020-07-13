@@ -74,4 +74,5 @@ Generates a `team.html` page in the `output` directory, that displays a nicely f
   * Role-specific property (School, link to GitHub profile, or office number)
 
 ## Example:
+Video Walk-through: https://drive.google.com/file/d/16oEZFKE1PAABB_wEaDAOJuuRV_CxpzoG/view
 ![Example IMG](./sample.png)
